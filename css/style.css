@@ -1,0 +1,43 @@
+/*reset*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*reset*/
+
+/*utils*/
+.flex {
+    display: flex;
+}
+
+.gap {
+    gap: 1.25rem;
+}
+
+.pad-10 {
+    padding: .625rem;
+}
+
+.back-white {
+    background-color: white;
+}
+
+.radius {
+    border-radius: .9375rem;
+}
+
+/*utils*/
+
+body {
+    background-color: rgb(33, 33, 34);
+}
+
+.container {
+    background-color: rgb(151, 142, 130);
+    width: 50%;
+    margin: 6.25rem auto;
+    padding: .625rem 1.875rem;
+}
